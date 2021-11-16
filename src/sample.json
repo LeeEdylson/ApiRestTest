@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "titulo": "Aventuritas",
+        "escritor": "Lee Tipismana",
+        "publicacion": "1999"         
+    },
+    {
+        "id": 2,
+        "titulo": "Aventuritas 2",
+        "escritor": "Lee Tipismana",
+        "publicacion": "2015"         
+    }
+]
